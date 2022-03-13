@@ -7,3 +7,4 @@ dist-ssr
 *.pyc
 book
 back_origin_snapshot
+.github/
